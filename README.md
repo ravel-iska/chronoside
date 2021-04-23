@@ -83,3 +83,4 @@ To add a new feature or fix a bug follow the steps -
 <h2 id="cite">Contributors</h2>
 
 The Chronoside Bot was developed by [@majordwarf](https://github.com/majordwarf), [@segalll](https://github.com/segalll), and [@gcttirth](https://github.com/gcttirth).
+Thanks
